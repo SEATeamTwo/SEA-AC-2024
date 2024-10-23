@@ -1,0 +1,1002 @@
+[
+  {
+    "movie_id": 4662,
+    "title": "The Shawshank Redemption",
+    "image_url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 6.0,
+    "awake_score": 9.0,
+    "fearless_score": 2.0
+  },
+  {
+    "movie_id": 4337,
+    "title": "The Godfather",
+    "image_url": "https://image.tmdb.org/t/p/original/3Tf8vXykYhzHdT0BtsYTp570JGQ.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 4.0,
+    "awake_score": 9.0,
+    "fearless_score": 6.0
+  },
+  {
+    "movie_id": 1619,
+    "title": "The Dark Knight",
+    "image_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 7.0,
+    "awake_score": 10.0,
+    "fearless_score": 6.0
+  },
+  {
+    "movie_id": 8112,
+    "title": "Pulp Fiction",
+    "image_url": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3.0,
+    "cheerful_score": 4.0,
+    "awake_score": 6.6,
+    "fearless_score": 5.0
+  },
+  {
+    "movie_id": 9743,
+    "title": "Forrest Gump",
+    "image_url": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 5.0,
+    "cheerful_score": 8.0,
+    "awake_score": 5.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 2013,
+    "title": "Inception",
+    "image_url": "https://image.tmdb.org/t/p/original/9egFcRMV4Z3ZdcaJAYoxmnbqZE7.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 6.0,
+    "awake_score": 10.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 6658,
+    "title": "The Matrix",
+    "image_url": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3.0,
+    "cheerful_score": 8.0,
+    "awake_score": 8.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 3662,
+    "title": "Fight Club",
+    "image_url": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 4.0,
+    "awake_score": 6.5,
+    "fearless_score": 4.0
+  },
+  {
+    "movie_id": 3917,
+    "title": "Goodfellas",
+    "image_url": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 5.0,
+    "awake_score": 7.0,
+    "fearless_score": 4.0
+  },
+  {
+    "movie_id": 4374,
+    "title": "The Silence of the Lambs",
+    "image_url": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 1.0,
+    "awake_score": 4.0,
+    "fearless_score": 9.0
+  },
+  {
+    "movie_id": 1018,
+    "title": "Se7en",
+    "image_url": "https://image.tmdb.org/t/p/w500/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 1.0,
+    "awake_score": 9.0,
+    "fearless_score": 10.0
+  },
+  {
+    "movie_id": 2457,
+    "title": "The Usual Suspects",
+    "image_url": "https://image.tmdb.org/t/p/original/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.0,
+    "cheerful_score": 6.0,
+    "awake_score": 5.0,
+    "fearless_score": 2.0
+  },
+  {
+    "movie_id": 7943,
+    "title": "The Lord of the Rings: The Return of the King",
+    "image_url": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.0,
+    "cheerful_score": 8.5,
+    "awake_score": 5.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 2056,
+    "title": "Gladiator",
+    "image_url": "https://image.tmdb.org/t/p/original/ofDw0himYNpehWA69OkPWOzXOYK.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 6.0,
+    "awake_score": 7.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 3567,
+    "title": "Memento",
+    "image_url": "https://image.tmdb.org/t/p/original/k37Rd1zILrxWb9Jt3B3pfpvaSvA.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 6.0,
+    "awake_score": 9.0,
+    "fearless_score": 4.0
+  },
+  {
+    "movie_id": 4398,
+    "title": "The Prestige",
+    "image_url": "https://image.tmdb.org/t/p/w500/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3.0,
+    "cheerful_score": 6.0,
+    "awake_score": 4.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 1386,
+    "title": "The Departed",
+    "image_url": "https://image.tmdb.org/t/p/original/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 4.0,
+    "awake_score": 10.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 4671,
+    "title": "Whiplash",
+    "image_url": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 4.0,
+    "awake_score": 6.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 9892,
+    "title": "Interstellar",
+    "image_url": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 7.0,
+    "awake_score": 6.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 6384,
+    "title": "The Lion King",
+    "image_url": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 10.0,
+    "awake_score": 2.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 7168,
+    "title": "The Green Mile",
+    "image_url": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.0,
+    "cheerful_score": 5.0,
+    "awake_score": 3.0,
+    "fearless_score": 10.0
+  },
+  {
+    "movie_id": 2683,
+    "title": "American History X",
+    "image_url": "https://image.tmdb.org/t/p/original/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 0.0,
+    "awake_score": 9.0,
+    "fearless_score": 10.0
+  },
+  {
+    "movie_id": 5149,
+    "title": "The Pianist",
+    "image_url": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 5.0,
+    "cheerful_score": 0.0,
+    "awake_score": 3.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 1673,
+    "title": "Saving Private Ryan",
+    "image_url": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 0.5,
+    "awake_score": 10.0,
+    "fearless_score": 9.5
+  },
+  {
+    "movie_id": 7364,
+    "title": "The Intouchables",
+    "image_url": "https://image.tmdb.org/t/p/original/f6ORXXQdIKHU3RvC6AC2lwAD6Mq.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 8.0,
+    "cheerful_score": 6.0,
+    "awake_score": 4.0,
+    "fearless_score": 2.0
+  },
+  {
+    "movie_id": 9237,
+    "title": "City of God",
+    "image_url": "https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 9.0,
+    "cheerful_score": 4.0,
+    "awake_score": 5.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 8917,
+    "title": "The Shining",
+    "image_url": "https://image.tmdb.org/t/p/original/92cuMSFKXUVQMGPsnfsPDDnmhwx.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 1.2,
+    "awake_score": 10.0,
+    "fearless_score": 10.0
+  },
+  {
+    "movie_id": 3674,
+    "title": "Coco",
+    "image_url": "https://image.tmdb.org/t/p/original/s6auPXBYxNP9EnYNBELxHhHXL1V.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 10.0,
+    "awake_score": 3.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 5213,
+    "title": "Braveheart",
+    "image_url": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 5.0,
+    "cheerful_score": 5.5,
+    "awake_score": 8.0,
+    "fearless_score": 2.0
+  },
+  {
+    "movie_id": 8742,
+    "title": "Avengers: Infinity War",
+    "image_url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 7.5,
+    "awake_score": 9.0,
+    "fearless_score": 6.0
+  },
+  {
+    "movie_id": 5697,
+    "title": "The Wolf of Wall Street",
+    "image_url": "https://image.tmdb.org/t/p/w500/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 8.0,
+    "awake_score": 8.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 2136,
+    "title": "The Social Network",
+    "image_url": "https://image.tmdb.org/t/p/original/pOjgZmZncuyTyur79aoKWW2Uu8B.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 6.0,
+    "cheerful_score": 6.0,
+    "awake_score": 3.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 1728,
+    "title": "Mad Max: Fury Road",
+    "image_url": "https://image.tmdb.org/t/p/w220_and_h330_face/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 4.0,
+    "awake_score": 9.0,
+    "fearless_score": 6.0
+  },
+  {
+    "movie_id": 5678,
+    "title": "Shutter Island",
+    "image_url": "https://image.tmdb.org/t/p/w500/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 2.0,
+    "awake_score": 9.0,
+    "fearless_score": 10.0
+  },
+  {
+    "movie_id": 9754,
+    "title": "Django Unchained",
+    "image_url": "https://image.tmdb.org/t/p/original/vmUqhTP6NjkuchJbOzC2q20v5pT.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 5.0,
+    "awake_score": 9.0,
+    "fearless_score": 8.0
+  },
+  {
+    "movie_id": 8914,
+    "title": "WALL-E",
+    "image_url": "https://image.tmdb.org/t/p/original/cY9JRH1xA0TXSUTd7S6xnOnPZhF.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 9.0,
+    "awake_score": 4.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 7462,
+    "title": "Toy Story",
+    "image_url": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 9.0,
+    "cheerful_score": 10.0,
+    "awake_score": 0.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 4759,
+    "title": "Finding Nemo",
+    "image_url": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 8.6,
+    "awake_score": 0.5,
+    "fearless_score": 0.5
+  },
+  {
+    "movie_id": 6418,
+    "title": "Ratatouille",
+    "image_url": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 8.0,
+    "cheerful_score": 10.0,
+    "awake_score": 2.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 9723,
+    "title": "Up",
+    "image_url": "https://image.tmdb.org/t/p/original/jX6cvQtuHTejs9HZ7IDEgKV3KDr.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 6.0,
+    "awake_score": 2.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 7126,
+    "title": "Inside Out",
+    "image_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 9.0,
+    "awake_score": 4.0,
+    "fearless_score": 2.0
+  },
+  {
+    "movie_id": 4787,
+    "title": "Monsters, Inc.",
+    "image_url": "https://image.tmdb.org/t/p/original/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 9.0,
+    "cheerful_score": 10.0,
+    "awake_score": 3.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 4679,
+    "title": "Monsters University",
+    "image_url": "https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 9.0,
+    "cheerful_score": 10.0,
+    "awake_score": 1.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 9081,
+    "title": "Frozen",
+    "image_url": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 9.0,
+    "awake_score": 4.0,
+    "fearless_score": 2.0
+  },
+  {
+    "movie_id": 6044,
+    "title": "Moana",
+    "image_url": "https://image.tmdb.org/t/p/w500/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 9.4,
+    "cheerful_score": 9.0,
+    "awake_score": 1.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 4042,
+    "title": "Zootopia",
+    "image_url": "https://image.tmdb.org/t/p/w500/u8597pdwSHOvcJQhP2cLi7a67ZW.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 9.0,
+    "cheerful_score": 10.0,
+    "awake_score": 2.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 5976,
+    "title": "Big Hero 6",
+    "image_url": "https://image.tmdb.org/t/p/original/gBWEjUJhqD0SyKsaDsqo2CnJ6wG.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 10.0,
+    "awake_score": 1.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 5461,
+    "title": "The Incredibles",
+    "image_url": "https://image.tmdb.org/t/p/original/2UnQ5f7PgHo4jIk6EUuS4xPsG1B.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 9.6,
+    "awake_score": 2.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 7875,
+    "title": "Cars",
+    "image_url": "https://image.tmdb.org/t/p/original/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 10.0,
+    "awake_score": 2.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 7418,
+    "title": "Cars 2",
+    "image_url": "https://image.tmdb.org/t/p/original/6mVvjymPpuzE0VYAWAUCBxBAQVW.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 8.0,
+    "awake_score": 2.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 5743,
+    "title": "Get Out",
+    "image_url": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 3.0,
+    "awake_score": 9.0,
+    "fearless_score": 8.0
+  },
+  {
+    "movie_id": 6782,
+    "title": "La La Land",
+    "image_url": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 8.0,
+    "cheerful_score": 9.0,
+    "awake_score": 6.0,
+    "fearless_score": 2.0
+  },
+  {
+    "movie_id": 8336,
+    "title": "The Grand Budapest Hotel",
+    "image_url": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 7.0,
+    "cheerful_score": 8.0,
+    "awake_score": 5.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 5592,
+    "title": "Parasite",
+    "image_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.0,
+    "cheerful_score": 5.0,
+    "awake_score": 9.0,
+    "fearless_score": 7.0
+  },
+  {
+    "movie_id": 5984,
+    "title": "Spirited Away",
+    "image_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 9.0,
+    "cheerful_score": 8.0,
+    "awake_score": 4.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 7468,
+    "title": "A Quiet Place",
+    "image_url": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 1.0,
+    "awake_score": 10.0,
+    "fearless_score": 8.0
+  },
+  {
+    "movie_id": 8923,
+    "title": "The Social Dilemma",
+    "image_url": "https://image.tmdb.org/t/p/w500/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.0,
+    "cheerful_score": 3.0,
+    "awake_score": 8.0,
+    "fearless_score": 9.0
+  },
+  {
+    "movie_id": 3781,
+    "title": "The Incredibles",
+    "image_url": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 8.0,
+    "cheerful_score": 9.0,
+    "awake_score": 6.0,
+    "fearless_score": 4.0
+  },
+  {
+    "movie_id": 4793,
+    "title": "Alien",
+    "image_url": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 1.0,
+    "awake_score": 8.0,
+    "fearless_score": 8.0
+  },
+  {
+    "movie_id": 7391,
+    "title": "Her",
+    "image_url": "https://image.tmdb.org/t/p/original/jpWcLPddK2gZEl09HBY17zeZtdC.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 6.0,
+    "cheerful_score": 7.0,
+    "awake_score": 3.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 4563,
+    "title": "A Star Is Born",
+    "image_url": "https://image.tmdb.org/t/p/w1280/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 8.5,
+    "cheerful_score": 7.0,
+    "awake_score": 2.0,
+    "fearless_score": 0.5
+  },
+  {
+    "movie_id": 1745,
+    "title": "Spider Man: Into the Spider-Verse",
+    "image_url": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 5.5,
+    "cheerful_score": 7.0,
+    "awake_score": 5.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 1305,
+    "title": "Knives Out",
+    "image_url": "https://image.tmdb.org/t/p/original/hfoC1ZHrOKBaGUjv0HezP9omgcp.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 7.5,
+    "cheerful_score": 6.0,
+    "awake_score": 5.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 1917,
+    "title": "1917",
+    "image_url": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.5,
+    "cheerful_score": 2.0,
+    "awake_score": 8.0,
+    "fearless_score": 7.0
+  },
+  {
+    "movie_id": 8181,
+    "title": "Bohemian Rhapsody",
+    "image_url": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 7.5,
+    "cheerful_score": 6.0,
+    "awake_score": 2.0,
+    "fearless_score": 1.5
+  },
+  {
+    "movie_id": 5326,
+    "title": "The Disaster Artist",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgJXxS9CtEF4qjcSGxVVEbG2Iz4KeUAB8EQ&s",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 7.5,
+    "cheerful_score": 6.0,
+    "awake_score": 2.0,
+    "fearless_score": 1.5
+  },
+  {
+    "movie_id": 2484,
+    "title": "Step Brothers",
+    "image_url": "https://image.tmdb.org/t/p/w500/wRR6U3K3v2iQsG3uw7ehz1ctRyT.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 6.5,
+    "cheerful_score": 9.0,
+    "awake_score": 6.0,
+    "fearless_score": 0.5
+  },
+  {
+    "movie_id": 5879,
+    "title": "Anchorman",
+    "image_url": "https://image.tmdb.org/t/p/original/tii7fevXvgDKwMSXIYdppNcJoAJ.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 7.5,
+    "cheerful_score": 6.5,
+    "awake_score": 2.0,
+    "fearless_score": 0.5
+  },
+  {
+    "movie_id": 9999,
+    "title": "The Hangover",
+    "image_url": "https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.5,
+    "cheerful_score": 3.5,
+    "awake_score": 7.0,
+    "fearless_score": 2.5
+  },
+  {
+    "movie_id": 1663,
+    "title": "Ted",
+    "image_url": "https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 7.5,
+    "cheerful_score": 5.5,
+    "awake_score": 5.0,
+    "fearless_score": 1.5
+  },
+  {
+    "movie_id": 1337,
+    "title": "Legally Blonde",
+    "image_url": "https://image.tmdb.org/t/p/w500/4ABNnmkVpzplrEVQWt1piITT0Ey.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 9.0,
+    "cheerful_score": 8.5,
+    "awake_score": 2.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 1224,
+    "title": "Friday",
+    "image_url": "https://image.tmdb.org/t/p/original/3Ya1RurP2NqaYoiok4DmfO41rCC.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3.0,
+    "cheerful_score": 4.5,
+    "awake_score": 8.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 6457,
+    "title": "In Bruges",
+    "image_url": "https://image.tmdb.org/t/p/original/vVgIDmbp9HqwWe9mPGSPTgsZPKo.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.5,
+    "cheerful_score": 1.0,
+    "awake_score": 9.0,
+    "fearless_score": 4.5
+  },
+  {
+    "movie_id": 8358,
+    "title": "Lock Stock and Two Smoking Barrels",
+    "image_url": "https://image.tmdb.org/t/p/w500/wt2TRBmFmBn5M5MBcPTwovlREaB.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3.5,
+    "cheerful_score": 3.0,
+    "awake_score": 8.5,
+    "fearless_score": 4.0
+  },
+  {
+    "movie_id": 6134,
+    "title": "Snatch",
+    "image_url": "https://image.tmdb.org/t/p/w500/wt2TRBmFmBn5M5MBcPTwovlREaB.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3.5,
+    "cheerful_score": 5.5,
+    "awake_score": 6.6,
+    "fearless_score": 4.0
+  },
+  {
+    "movie_id": 8853,
+    "title": "Kidulthood",
+    "image_url": "https://image.tmdb.org/t/p/w500/fECaenTSnSr6lS0pipY2HB4J9fJ.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 2.5,
+    "awake_score": 7.8,
+    "fearless_score": 7.0
+  },
+  {
+    "movie_id": 3856,
+    "title": "Submarine",
+    "image_url": "https://image.tmdb.org/t/p/w500/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 6.6,
+    "cheerful_score": 4.5,
+    "awake_score": 4.8,
+    "fearless_score": 0.7
+  },
+  {
+    "movie_id": 1525,
+    "title": "Dont Look Up",
+    "image_url": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.0,
+    "cheerful_score": 4.5,
+    "awake_score": 4.8,
+    "fearless_score": 0.7
+  },
+  {
+    "movie_id": 8467,
+    "title": "The Matrix",
+    "image_url": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 2.0,
+    "awake_score": 7.8,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 9932,
+    "title": "Barbie",
+    "image_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 8.0,
+    "cheerful_score": 9.5,
+    "awake_score": 2.0,
+    "fearless_score": 0.0
+  },
+  {
+    "movie_id": 9933,
+    "title": "Oppenheimer",
+    "image_url": "https://image.tmdb.org/t/p/original/aqZ75oN6yd7UTShYIMNlpSdDbbH.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3.0,
+    "cheerful_score": 0.5,
+    "awake_score": 3.5,
+    "fearless_score": 4.0
+  },
+  {
+    "movie_id": 7126,
+    "title": "Inside Out 2",
+    "image_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 10.0,
+    "cheerful_score": 8.5,
+    "awake_score": 2.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 173450,
+    "title": "Saw",
+    "image_url": "https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 0.0,
+    "awake_score": 9.0,
+    "fearless_score": 10.0
+  },
+  {
+    "movie_id": 142585,
+    "title": "Paranormal Activity",
+    "image_url": "https://image.tmdb.org/t/p/w500/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 0.5,
+    "awake_score": 8.5,
+    "fearless_score": 9.5
+  },
+  {
+    "movie_id": 1359478,
+    "title": "The Cabin in the Woods",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hviayoEVAUqSdPd1pX-J2C9hi77q2FMTHQ&s",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 0.5,
+    "awake_score": 9.5,
+    "fearless_score": 10
+  },
+  {
+    "movie_id": 5341534,
+    "title": "The Exorcist",
+    "image_url": "https://image.tmdb.org/t/p/w220_and_h330_face/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 0.0,
+    "awake_score": 10,
+    "fearless_score": 10
+  },
+  {
+    "movie_id": 5397562,
+    "title": "Hostel",
+    "image_url": "https://image.tmdb.org/t/p/w116_and_h174_face/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 0.0,
+    "cheerful_score": 0.0,
+    "awake_score": 9,
+    "fearless_score": 10
+  },
+  {
+    "movie_id": 95836,
+    "title": "The Blair Witch Project",
+    "image_url": "https://image.tmdb.org/t/p/original/khr7XXRjM2eR7R302b9BdLX7uxS.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 0.0,
+    "awake_score": 9,
+    "fearless_score": 10
+  },
+  {
+    "movie_id": 513469,
+    "title": "The Menu",
+    "image_url": "https://image.tmdb.org/t/p/w116_and_h174_face/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 1.0,
+    "cheerful_score": 0.0,
+    "awake_score": 9,
+    "fearless_score": 10
+  },
+  {
+    "movie_id": 3497586,
+    "title": "Cloverfield",
+    "image_url": "https://image.tmdb.org/t/p/original/cpeFXiQJaLDCODaRIq3Dnn93o8.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 2.0,
+    "cheerful_score": 2.0,
+    "awake_score": 10,
+    "fearless_score": 8
+  },
+  {
+    "movie_id": 63981,
+    "title": "10 Cloverfield Lane",
+    "image_url": "https://image.tmdb.org/t/p/original/q8A39vcBDruhvoDTJd6L8a4lnTi.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3.0,
+    "cheerful_score": 1.5,
+    "awake_score": 7.0,
+    "fearless_score": 7.5
+  },
+  {
+    "movie_id": 65137245,
+    "title": "12 Angry Men",
+    "image_url": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 6.0,
+    "cheerful_score": 5.0,
+    "awake_score": 5.0,
+    "fearless_score": 2.5
+  },
+  {
+    "movie_id": 893456,
+    "title": "Casablanca",
+    "image_url": "https://image.tmdb.org/t/p/original/pQjUifS7GXimKOtRwPf8nXWw1bd.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 7.0,
+    "cheerful_score": 7.5,
+    "awake_score": 4.0,
+    "fearless_score": 1.0
+  },
+  {
+    "movie_id": 361945,
+    "title": "North By Northwest",
+    "image_url": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.0,
+    "cheerful_score": 7.0,
+    "awake_score": 2.5,
+    "fearless_score": 1.2
+  },
+  {
+    "movie_id": 51235231,
+    "title": "Mean Girls",
+    "image_url": "https://image.tmdb.org/t/p/original/a3gyjWfrm7cQcVrRaCsATcJ1WjA.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 7.0,
+    "cheerful_score": 8.5,
+    "awake_score": 2.5,
+    "fearless_score": 0.5
+  },
+  {
+    "movie_id": 5321,
+    "title": "Angus, Thongs and Perfect Snogging",
+    "image_url": "https://image.tmdb.org/t/p/w500/3WLMr49X84qGiFn1pkCyhS5SEBZ.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.0,
+    "cheerful_score": 8.0,
+    "awake_score": 2.0,
+    "fearless_score": 0.3
+  },
+  {
+    "movie_id": 9876434161,
+    "title": "The Room",
+    "image_url": "https://image.tmdb.org/t/p/original/oGI3QSsY4XsmUzuNYUQBQDdjuaP.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 4.5,
+    "cheerful_score": 7.5,
+    "awake_score": 3.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 5552752,
+    "title": "Joker",
+    "image_url": "https://media.themoviedb.org/t/p/w220_and_h330_face/ugLmgWuHwDwmInzjhX0rLl86Eyq.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 3,
+    "cheerful_score": 3.5,
+    "awake_score": 6.0,
+    "fearless_score": 4.0
+  },
+  {
+    "movie_id": 1,
+    "title": "2001: A Spacy Odyssey",
+    "image_url": "https://image.tmdb.org/t/p/original/dG7pGD0Mc8QJLSuybrUpGAwtzEf.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 5,
+    "cheerful_score": 7,
+    "awake_score": 4.0,
+    "fearless_score": 3.0
+  },
+  {
+    "movie_id": 631461,
+    "title": "Scary Movie",
+    "image_url": "https://image.tmdb.org/t/p/original/dG7pGD0Mc8QJLSuybrUpGAwtzEf.jpg",
+    "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "calm_score": 5,
+    "cheerful_score": 7,
+    "awake_score": 4.0,
+    "fearless_score": 3.0
+  }
+]

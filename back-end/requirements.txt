@@ -1,0 +1,5 @@
+Flask
+tensorflow
+keras
+keras.models
+pillow

@@ -1,0 +1,4 @@
+0 calm_score
+1 sad_score
+2 awake_score
+3 fearless_score
