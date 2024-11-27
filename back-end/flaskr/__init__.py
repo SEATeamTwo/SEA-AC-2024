@@ -20,13 +20,11 @@ def create_app(test_config=None):
 
 app = create_app()
 
-print(db.getMovieRecs([1,4,6,8]))
 
-@app.route('/getMovieRecs', methods=["POST","GET"])
+@app.route('/getMovieRecs')
 def getMovieRecs():
-
-
-    return db.getMovieRecs([1,3,4,6])
+    data = request.args.get('arr')
+    return db.getMovieRecs(data)
     
 
 
