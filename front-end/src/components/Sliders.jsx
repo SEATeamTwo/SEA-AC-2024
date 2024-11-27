@@ -1,12 +1,16 @@
-import React from 'react'
 
-const Sliders = () => {
+
+const Sliders = ({
+    value,
+    setValue,
+}) => { 
     return (
         <div>
             <div class="slidecontainer">
-                <input type="range" min="0" max="10" value="1"/>
+                <input type="range" min="0" max="100" value={value} onChange={(e) => setValue(e.target.value)} />
             </div>
         </div>
+
     )
 }
 
