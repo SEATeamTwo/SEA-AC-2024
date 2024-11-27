@@ -16,6 +16,8 @@ def create_app(test_config=None):
         DATABASE=os.path.join(app.instance_path, 'flaskr.sqlite'),
     )
 
+    print(db.getMovieRecs([3,0.5,3.5,4]))
+
     return app
 
 app = create_app()
